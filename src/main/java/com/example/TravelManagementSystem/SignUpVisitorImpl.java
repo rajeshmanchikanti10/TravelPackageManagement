@@ -1,6 +1,9 @@
 package com.example.TravelManagementSystem;
 
 import com.example.TravelManagementSystem.constants.GenericConstants;
+import com.example.TravelManagementSystem.entities.Activity;
+import com.example.TravelManagementSystem.entities.Passenger;
+import com.example.TravelManagementSystem.enums.PassengerType;
 import com.example.TravelManagementSystem.exception.InvalidOperationException;
 
 public class SignUpVisitorImpl implements  SignUpVisitor {

@@ -1,5 +1,10 @@
 package com.example.TravelManagementSystem;
 
+import com.example.TravelManagementSystem.entities.Activity;
+import com.example.TravelManagementSystem.entities.Destination;
+import com.example.TravelManagementSystem.entities.Passenger;
+import com.example.TravelManagementSystem.entities.TravelPackage;
+import com.example.TravelManagementSystem.enums.PassengerType;
 import com.example.TravelManagementSystem.exception.InvalidOperationException;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

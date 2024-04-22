@@ -1,12 +1,22 @@
-package com.example.TravelManagementSystem;
+package com.example.TravelManagementSystem.entities;
 
+import com.example.TravelManagementSystem.entities.Activity;
+import com.example.TravelManagementSystem.entities.Destination;
+import com.example.TravelManagementSystem.entities.Passenger;
 import com.example.TravelManagementSystem.exception.InvalidOperationException;
+import jakarta.validation.constraints.Pattern;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
-
+@Builder
+@AllArgsConstructor
 public class TravelPackage {
+    //can generate unique packageId
+
+    //name is unique identifier
     private String name;
     private Integer passengerCapacity;
     private List<Passenger> passengerList;

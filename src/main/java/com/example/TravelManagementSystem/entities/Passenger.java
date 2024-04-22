@@ -1,8 +1,15 @@
-package com.example.TravelManagementSystem;
+package com.example.TravelManagementSystem.entities;
 
+import com.example.TravelManagementSystem.enums.PassengerType;
+import com.example.TravelManagementSystem.SignUpVisitorImpl;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+
+@Builder
+@AllArgsConstructor
 public class Passenger {
-    private String name;
     private Integer passengerNumber;
+    private String name;
     private Double balance;
     private PassengerType passengerType;
 

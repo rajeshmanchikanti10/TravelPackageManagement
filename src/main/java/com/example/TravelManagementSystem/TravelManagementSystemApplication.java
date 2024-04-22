@@ -1,5 +1,10 @@
 package com.example.TravelManagementSystem;
 
+import com.example.TravelManagementSystem.entities.Activity;
+import com.example.TravelManagementSystem.entities.Destination;
+import com.example.TravelManagementSystem.entities.Passenger;
+import com.example.TravelManagementSystem.entities.TravelPackage;
+import com.example.TravelManagementSystem.enums.PassengerType;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -42,7 +47,6 @@ public class TravelManagementSystemApplication {
 
 		// Print available activities
 		travelPackage.printAvailableActivities();
-
 
 
 	}
