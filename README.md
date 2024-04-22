@@ -32,13 +32,17 @@
 ### Usage of visitor
   * SigningUp to an activity is implemented using visitor design pattern, Which helps in deducting right amount based on passengerType at runtime.
   * Adding a new passengerType in future can be done with minimal code changes.
-
-
-<img width="666" alt="Screenshot 2024-04-22 at 8 40 30 PM" src="https://github.com/rajeshmanchikanti10/Tr<img width="825" alt="Screenshot 2024-04-22 at 10 35 58 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/2306d16a-c7d4-4505-935f-64e3827d182b">
-avelPackageManagement/assets/45352809/6e92e462-bec6-46bf-afc6-70769295e![Uploading Screenshot 2024-04-22 at 10.35.58 PM.png…]()
-e38">
+<img width="666" alt="Screenshot 2024-04-22 at 8 40 30 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/d60fbaa2-df7b-4a20-aeef-0eded269bc2c">
 
 ## HLD:
+
+<img width="825" alt="Screenshot 2024-04-22 at 10 35 58 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/f41a5499-b20e-4b72-83a1-d6c4a5830d3a">
+
+
+
+
+
+
 
   
 
