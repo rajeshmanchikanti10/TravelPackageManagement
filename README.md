@@ -35,6 +35,8 @@
 <img width="666" alt="Screenshot 2024-04-22 at 8 40 30 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/d60fbaa2-df7b-4a20-aeef-0eded269bc2c">
 
 ## HLD:
+ <img width="623" alt="Screenshot 2024-04-22 at 11 11 22 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/91314066-47aa-4d80-9ff5-d054223af718">
+
   * As Travel Package system involves proper structuring of schema and no un-structured gets inserted into DB, we can think sql as an option, but with sql we will face problem with scale and performance.
   *  we can use SQL with distrubted cluster, this will address our scale issue
   *  Using Postgres withh citus helps in dealing with performance issue, as it has support for Parallel Query Execution,Indexing and Query Optimization etc.
