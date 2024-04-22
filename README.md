@@ -1,7 +1,7 @@
 # Travel Package Management
 ## An Application that helps in managing travel packages for agencies
 
-### LLD For Travel Package Management
+## LLD For Travel Package Management
 ### Main Entities:
    * Passenger
    * Destination
@@ -34,5 +34,11 @@
   * Adding a new passengerType in future can be done with minimal code changes.
 
 
-<img width="666" alt="Screenshot 2024-04-22 at 8 40 30 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/6e92e462-bec6-46bf-afc6-70769295ee38">
+<img width="666" alt="Screenshot 2024-04-22 at 8 40 30 PM" src="https://github.com/rajeshmanchikanti10/Tr<img width="825" alt="Screenshot 2024-04-22 at 10 35 58 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/2306d16a-c7d4-4505-935f-64e3827d182b">
+avelPackageManagement/assets/45352809/6e92e462-bec6-46bf-afc6-70769295e![Uploading Screenshot 2024-04-22 at 10.35.58 PM.png…]()
+e38">
+
+## HLD:
+
+  
 
