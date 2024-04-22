@@ -1,6 +1,20 @@
 # Travel Package Management
-## TravelPackageManagement services that helps in creating travelpackages, passengers, destinations and activities at that particular destination
+## An Application that helps in managing travel packages for agencies
 
 ### LLD For Travel Package Management
+### Main Entities:
+   #### Passenger
+   #### Destination
+   #### TravelPackage
+   #### Activities
 
-<img width="603" alt="Screenshot 2024-04-22 at 2 09 44 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/6f13631b-720e-416b-bbd0-06997d47773e">
+### A destination can be in more than one travelpackage, A destination can exist without travel package, but not travelpackage
+### A destination can have one or more activities, activity cant exist without destination
+### TravelPackage has one or more passengers and passenger can exists without travelpackage
+
+
+### The below also shows that state is maintained with destination, which helps in filtering out InActive destinations
+
+
+<img width="666" alt="Screenshot 2024-04-22 at 8 40 30 PM" src="https://github.com/rajeshmanchikanti10/TravelPackageManagement/assets/45352809/6e92e462-bec6-46bf-afc6-70769295ee38">
+
