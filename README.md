@@ -24,6 +24,11 @@
   * Passenger get added to this,once user successfully registers activity
 ### TravelPackage
   * TravelPackage has name(unique identifier),passengerCapacity,list of passengers enrolled for package,list of destination under the package
+  * Additional travel package also provides following
+    * printItinerary
+    * printPassengerList
+    * printAvailableActivities
+    * printPassengerDetails
 ### Usage of visitor
   * SigningUp to an activity is implemented using visitor design pattern, Which helps in deducting right amount based on passengerType at runtime.
   * Adding a new passengerType in future can be done with minimal code changes.
