@@ -3,10 +3,10 @@
 
 ### LLD For Travel Package Management
 ### Main Entities:
-   #### Passenger
-   #### Destination
-   #### TravelPackage
-   #### Activities
+   #### 1.Passenger
+   #### 2.Destination
+   #### 3.TravelPackage
+   #### 4.Activities
 
 ### A destination can be in more than one travelpackage, A destination can exist without travel package, but not travelpackage
 ### A destination can have one or more activities, activity cant exist without destination
