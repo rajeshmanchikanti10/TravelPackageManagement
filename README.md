@@ -8,9 +8,9 @@
    * TravelPackage
    * Activities
 
-### A destination can be in more than one travelpackage, A destination can exist without travel package, but not travelpackage
-### A destination can have one or more activities, activity cant exist without destination
-### TravelPackage has one or more passengers and passenger can exists without travelpackage
+### Destination: TravelPackge(M:N)
+### Destination : Activity(M:1)
+### Passenger : TravelPackage(M:M)
 
 
 ### The below also shows that state is maintained with destination, which helps in filtering out InActive destinations
